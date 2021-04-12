@@ -1,0 +1,134 @@
+.wrapper {
+    width: Auto;
+    margin: 0 auto;
+    
+}
+
+.containerone {
+    height: 850px;
+    background-color:
+
+}
+
+.navbar {
+text-align: right;
+margin: 10px;
+font-size: 30px;
+font-family:sans-serif
+color: white;
+background-color: black; 
+}
+
+.boxone {
+    text-align: center;
+    padding-top: 100px;
+    width:800;
+    height: 40px;
+    Margin: auto;
+    border: 10px transparent;
+    color: rgb(33, 151, 132)
+}
+
+.boxhulu {
+    text-align: center;
+    padding-top: 50px;
+    width:600;
+    height: 50px;
+    margin-bottom: 60px;
+    border-radius: 20%;
+    border-width: 75px;
+}
+
+.boxthree {
+    text-align: center;
+    padding-top: 190px;
+    color: rgb(19, 156, 127);
+    font-size: 40px;
+}
+
+.boxfour {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 15px;   
+    font-size: 25px;
+    font-style: bold; 
+    color: white;   
+      }
+
+
+.boxfive {
+    padding-top: 5px;
+    text-align: center;
+    padding-bottom: 20px;
+    color: rgb(19, 156, 127);
+}
+
+
+.boxsix {
+    text-align: center;
+    padding-top: 5px;
+    width:800;
+    height: 40px;
+    Margin: auto;
+    border: 10px transparent;
+    color:  rgb(19, 156, 127);
+}
+
+.containertwo {
+    height: 200px;
+    background-image: linear-gradient(
+        135deg
+        , #231437 0%, #2c385e 50%, #336e6b 100%);
+}
+
+.column-left { 
+    float: left; 
+    width: 33.333%; 
+    color: white;
+    text-align: center;
+
+}
+.column-right { 
+    float: right; 
+    width: 33.333%; 
+    color: white;
+    text-align: center;
+}
+.column-center { 
+    display: inline-block; 
+    width: 33.333%; 
+    color: white;
+    text-align: center;
+}
+
+.containerthree {
+    background-color: black;
+    color: white;
+    align-items: center;
+    padding: 0px;
+
+
+
+}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    height: 800px;
+    background-color: black;
+}
+
+
+    
+
+.flexB {
+   
+    color: white; 
+}
+
+flexC {
+    
+    color: white;
+}
+
