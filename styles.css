@@ -1,0 +1,85 @@
+html{
+    scroll-behavior: smooth;
+    }
+
+body {
+    background-image: url("https://www.transparenttextures.com/patterns/strange-bullseyes.png");
+}
+.container-fluid {
+    background-color:#80CED7;
+    display: flex;
+    justify-content: flex-end; 
+    color: white;
+}
+
+.containerzero {
+    display: flex;
+    justify-content: space-around;  
+}
+
+.rectangle {
+    width: 330px;
+    height: 250px;
+    background: #007da746;
+    display: flex;
+    justify-content: center;
+    color: white;
+  }
+
+.containerone { 
+    margin: 20px;
+    padding: 3%;
+}
+
+.card-text {
+    display: flex;
+    justify-self: stretch;
+}
+
+.accordionheader {
+    background-color: #007da741;
+    display: flex;
+    justify-content: center;
+}
+
+.accordion-button {
+    background-color: #80ced72d;
+    
+}
+
+.accordion-body {
+    background-color: #007da74d;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.card-body {
+	background-color: #003249b4;
+	color:aliceblue;
+    display: flex;
+    justify-content: center;
+}
+
+.card-header {
+    background-color: #007da74b;
+    color: white;
+}
+
+.label {
+    display: grid;
+    background-color: blue;
+    align-content: center;
+    justify-content:center;
+
+}
+button [type="submit"] {
+    height: 50px;
+    width: 75px;
+}
+
+.lowerfooter {
+    background-color: #80CED7;
+    color: white;
+    box-sizing: content-box;
+}
